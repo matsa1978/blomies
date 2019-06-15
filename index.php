@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "india won the match";
+echo "match abodoned due to heavy rain";
 ?>
 
 </body>
